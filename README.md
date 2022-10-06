@@ -1,25 +1,44 @@
 ## Bem vindo! Eu sou Igor Queirantes.
 
-- 🌱 Estudante de Sistemas para Internet na FATEC Jales.
+<h3>Apaixonado por Delphi & Linux.</h3>
 
-<div align="center">
-  <a href="https://github.com/jeffersonarpasserini/">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ownerigor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ownerigor&layout=compact&langs_count=7&theme=dark"/>
-</div>
+- 📧 E-mail: </br>
+ **igorqueirantes0@gmail.com**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+- 📄 Experiências: </br>
+ **Desenvolvedor Desktop | Delphi // 2 Anos**
 
-##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/igor-queirantes-66aab0222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+<h3 align="left">Other Social media:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/igor-queirantes-66aab0222/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<h3 align="left">Linguagens e ferramentas:</h3>
+
+<p align="left"> 
+  <! -- Delphi -- > 
+  <img src="https://img.shields.io/badge/Delphi-B80000?style=for-the-badge&logo=Delphi&logoColor=white"/>
+
+  <!-- Linux -- >
+  <img src="https://img.shields.io/badge/Linux-3A9EB6?style=for-the-badge&logo=Linux&logoColor=white"/>
+  
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p align="left"> 
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+</p>
+
+<p align="left">
+  <!-- Oracle -->
+  <img src="https://img.shields.io/badge/Oracle-F11200?style=for-the-badge&logo=Oracle&logoColor=white"/>
+</p>
