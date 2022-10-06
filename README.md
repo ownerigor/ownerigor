@@ -1,14 +1,16 @@
-## Bem vindo! Eu sou Igor Queirantes.
+## Bem vindo! Eu sou o Igor Queirantes.
 
-<h3>Apaixonado por Delphi & Linux.</h3>
+<h3>
+  Apaixonado por Delphi & Linux <br/> 
+</h3>
 
 - 📧 E-mail: </br>
  **igorqueirantes0@gmail.com**
 
 - 📄 Experiências: </br>
- **Desenvolvedor Desktop | Delphi // 2 Anos**
+ **Desenvolvedor Desktop | Delphi - 2 Anos**
 
-<h3 align="left">Other Social media:</h3>
+<h3 align="left">Meu Linkedin:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/igor-queirantes-66aab0222/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -16,11 +18,22 @@
 <h3 align="left">Linguagens e ferramentas:</h3>
 
 <p align="left"> 
-  <! -- Delphi -- > 
+  <!-- Delphi --> 
   <img src="https://img.shields.io/badge/Delphi-B80000?style=for-the-badge&logo=Delphi&logoColor=white"/>
+  
+  <!-- Oracle -->
+  <img src="https://img.shields.io/badge/Oracle-F11200?style=for-the-badge&logo=Oracle&logoColor=white"/>
+</p>
 
-  <!-- Linux -- >
+<p align="left"> 
+  
+  <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-3A9EB6?style=for-the-badge&logo=Linux&logoColor=white"/>
+</p>
+
+<p align="left">
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   
   <!-- HTML -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,16 +42,5 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   
   <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<p align="left"> 
-  <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-</p>
-
-<p align="left">
-  <!-- Oracle -->
-  <img src="https://img.shields.io/badge/Oracle-F11200?style=for-the-badge&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
 </p>
