@@ -1,11 +1,8 @@
-## Bem vindo! Eu sou o Igor Queirantes.
+## Bem vindo! Eu sou o Igor.
 
 <h3>
   Apaixonado por Delphi & Linux <br/> 
 </h3>
-
-- 📧 E-mail: </br>
- **igorqueirantes0@gmail.com**
 
 - 📄 Experiências: </br>
  **Desenvolvedor Desktop | Delphi - 2 Anos**
