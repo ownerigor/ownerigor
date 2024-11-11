@@ -5,7 +5,8 @@
 </h3>
 
 - 📄 Experiências: </br>
- **Desenvolvedor Desktop | Delphi - 4 Anos**
+ **Desenvolvedor Desktop | Delphi - 4 Anos** <br/>
+ **Aprendendo JavaScript** 
 
 <h3 align="left">Meu Linkedin:</h3>
 <p align="left">
