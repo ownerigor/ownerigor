@@ -6,7 +6,7 @@
 
 <h3 align="left">Meu Linkedin:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/igor-queirantes-66aab0222/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/igor-queirantes/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Linguagens e tecnologias:</h3>
