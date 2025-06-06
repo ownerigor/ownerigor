@@ -2,7 +2,7 @@
 
 - 📄 Experiências: </br>
  **Desenvolvedor Desktop | Delphi - 4 Anos** <br/>
- **Aprendendo JavaScript** 
+ **<a href="https://ownerigor.github.io/my-devlinks">My Dev Links</a>** 
 
 <h3 align="left">Meu Linkedin:</h3>
 <p align="left">
