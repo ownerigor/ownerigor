@@ -1,25 +1,10 @@
-## 👋 Bem-vindo! Eu sou o Igor.
+## 👋 Welcome! I'm Igor.
 
-Desenvolvedor de software com experiência sólida em aplicações desktop e interesse contínuo em aprender novas tecnologias.  
-
----
-
-### 📄 Experiências
-
-- **Desenvolvedor Desktop | Delphi - 4 Anos**
-- **[My Dev Links](https://ownerigor.github.io/my-devlinks)**
+Software developer with solid experience in desktop applications and a continued interest in learning new technologies.
 
 ---
 
-### 📚 Atualmente estudando
-
-- Go
-- JavaScript
-- Next.js
-
----
-
-### 🌐 Meu LinkedIn
+### 🌐 My LinkedIn
 
 <p align="left">
   <a href="https://www.linkedin.com/in/igor-queirantes/" target="_blank">
@@ -29,9 +14,9 @@ Desenvolvedor de software com experiência sólida em aplicações desktop e int
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies and Tools
 
-#### 💻 Linguagens
+#### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -48,13 +33,13 @@ Desenvolvedor de software com experiência sólida em aplicações desktop e int
 
 </p>
 
-#### 🗄️ Banco de Dados
+#### 🗄️ Database
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F11200?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </p>
 
-#### ⚙️ DevOps / Outros
+#### ⚙️ DevOps / Others
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-3A9EB6?style=for-the-badge&logo=Linux&logoColor=white"/>
